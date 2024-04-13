@@ -1,8 +1,8 @@
-package com.example
+package me.katalijst
 
 import xyz.xenondevs.nova.addon.Addon
 
-object ExampleAddon : Addon() {
+object OreGenIssue : Addon() {
     
     override fun init() {
         // Called when the addon is initialized.

@@ -1,0 +1,14 @@
+{
+  "custom_ore": {
+    "item": "block/custom_ore",
+    "block": {
+      "type": "solid"
+    }
+  },
+  "custom_ore2": {
+    "item": "block/custom_ore2",
+    "block": {
+      "type": "solid"
+    }
+  }
+}

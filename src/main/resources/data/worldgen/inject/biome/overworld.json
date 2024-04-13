@@ -1,0 +1,18 @@
+{
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "oregenissue:custom_ore"
+    ],
+    [],
+    [],
+    [],
+    []
+  ]
+}
