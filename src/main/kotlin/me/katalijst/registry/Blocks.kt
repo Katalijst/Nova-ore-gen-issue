@@ -1,12 +1,6 @@
 package me.katalijst.registry
 
-import fr.ateastudio.NovaAdventureCraft
-import fr.ateastudio.registry.ore.AzuriteOre
-import fr.ateastudio.registry.ore.EnderiteOre
-import fr.ateastudio.registry.ore.NetheriteOre
-import fr.ateastudio.registry.ore.OceaniteOre
-import fr.ateastudio.registry.ore.RubyOre
-import fr.ateastudio.registry.ore.UraniumOre
+import me.katalijst.OreGenIssue
 import org.bukkit.Material
 import xyz.xenondevs.nova.addon.registry.BlockRegistry
 import xyz.xenondevs.nova.initialize.Init

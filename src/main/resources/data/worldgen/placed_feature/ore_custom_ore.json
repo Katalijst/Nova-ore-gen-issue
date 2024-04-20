@@ -1,5 +1,5 @@
 {
-  "feature": "oregenissue:custom_ore",
+  "feature": "oregenissue:ore_custom_ore",
   "placement": [
     {
       "type": "minecraft:count",

@@ -1,6 +1,6 @@
 package me.katalijst.registry
 
-import fr.ateastudio.NovaAdventureCraft
+import me.katalijst.OreGenIssue
 import net.minecraft.tags.BiomeTags
 import net.minecraft.world.level.levelgen.GenerationStep.Decoration
 import xyz.xenondevs.nova.addon.registry.worldgen.BiomeRegistry

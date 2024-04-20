@@ -1,6 +1,6 @@
 package me.katalijst.registry
 
-import fr.ateastudio.NovaAdventureCraft
+import me.katalijst.OreGenIssue
 import net.minecraft.tags.BlockTags
 import net.minecraft.world.level.levelgen.feature.Feature
 import net.minecraft.world.level.levelgen.feature.configurations.OreConfiguration
@@ -16,7 +16,7 @@ import xyz.xenondevs.nova.world.generation.wrapper.WrapperBlockState
 object ConfiguredFeatures : FeatureRegistry by OreGenIssue.registry {
     
     val ORE_CUSTOM_ORE2 = registerConfiguredFeature(
-        "ore_custom_ore2"
+        "ore_custom_ore2",
         Feature.ORE,
         OreConfiguration(
             listOf(

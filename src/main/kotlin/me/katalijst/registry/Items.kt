@@ -1,12 +1,9 @@
 package me.katalijst.registry
 
-import fr.ateastudio.NovaAdventureCraft
+import me.katalijst.OreGenIssue
 import xyz.xenondevs.nova.addon.registry.ItemRegistry
 import xyz.xenondevs.nova.initialize.Init
 import xyz.xenondevs.nova.initialize.InitStage
-import xyz.xenondevs.nova.item.behavior.Damageable
-import xyz.xenondevs.nova.item.behavior.Enchantable
-import xyz.xenondevs.nova.item.behavior.Tool
 
 @Init(stage = InitStage.PRE_PACK)
 object Items : ItemRegistry by OreGenIssue.registry {
